@@ -7,5 +7,7 @@ In this comparative case study, we present different approaches to incremental s
 As an audience, from the talk, I would get a comparative overview of varying approaches to incremental stream processing available in different programming languages, that potentially can help in differentiating them and selecting the right tool to get the job done.
 
 
-*Target audience level*: Intermediate, Advanced
-*Author*: Adil Akhter & Casper Konning 
+## Other details
+ 
+- *Target audience level*: Intermediate, Advanced
+- *Authors*: Adil Akhter & Casper Konning 
