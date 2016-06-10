@@ -4,4 +4,5 @@ This is the repository that contains the artefacts regarding the talk on structu
 
 ## Links 
 
-- [Proposal](https://github.com/adilakhter/structure-and-interpretation-of-stream-processing/blob/master/docs/proposal.md)  
+- [Proposal](https://github.com/adilakhter/structure-and-interpretation-of-stream-processing/blob/master/docs/proposal.md) 
+ 
